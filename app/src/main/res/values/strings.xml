@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DynamicRecyclerview</string>
+    <string name="content_description_media">This is image</string>
+    <string name="title">Some Title</string>
+    <string name="secondary_text">Some Second Text</string>
+    <string name="supporting_text">Hublaaaaaaaaaa</string>
+    <string name="action_1">Action 1</string>
+    <string name="action_2">Action 2</string>
+</resources>
